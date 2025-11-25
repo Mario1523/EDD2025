@@ -1,0 +1,28 @@
+# Archivos compilados
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# Archivos de depuración
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
